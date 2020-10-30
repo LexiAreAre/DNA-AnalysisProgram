@@ -1,0 +1,2 @@
+C:\Users\alexr\Desktop\ADN-Analysis-Application-main\Information-Processing\x64\Debug\Information-Processing.exe
+C:\Users\alexr\Desktop\ADN-Analysis-Application-main\Information-Processing\x64\Debug\Information-Processing.pdb
