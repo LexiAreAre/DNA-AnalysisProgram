@@ -33,7 +33,7 @@ public:
     std::string getADNsequence() const;
     void setADNsequence(std::string ADNsequence);
 
-    void addDisease(DiseasesSequences* disease);
+    void addDisease(DiseasesSequences& disease);
 
     std::string toString();
 };

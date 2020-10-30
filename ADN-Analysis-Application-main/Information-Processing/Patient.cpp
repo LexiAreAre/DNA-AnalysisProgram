@@ -60,8 +60,8 @@ void Patient::setADNsequence(std::string ADNsequence)
     this->ADNsequence = ADNsequence;
 }
 
-void Patient::addDisease(DiseasesSequences* disease){
-    this->diseases->push_back(disease);
+void Patient::addDisease(DiseasesSequences& disease){
+    this->diseases->push_back(&disease);
 }
 
 std::string Patient::toString()

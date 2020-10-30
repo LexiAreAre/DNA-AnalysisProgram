@@ -142,6 +142,7 @@
     <ClInclude Include="CSVReader.h" />
     <ClInclude Include="CSVTransformer.h" />
     <ClInclude Include="CSVWriter.h" />
+    <ClInclude Include="DiseasesCheckOut.h" />
     <ClInclude Include="DiseasesSequences.h" />
     <ClInclude Include="IReader.h" />
     <ClInclude Include="IWritter.h" />

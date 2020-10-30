@@ -72,21 +72,10 @@ void Menu::MenuPrincipal(){
 
 				case 3: {
 					// En esta parte se agregan las enfermedades a sus respectivos pacientes
-
-					for (auto& pa : *patients)
-					{
-						for (auto& en : *diseases)
-						{
-							if (pa->getADNsequence().find(en->getDiseaseSequence()) != std::string::npos) {
-								pa->addDisease(en);
-							}
-						}
-					}			
-						
+					DiseasesCheckOut::DNACheckOut(*patients, *diseases);
 					//Ahora se procede a crear el archivo JSON
-
-
-					
+					JSONWriter<Patient*> writer("datos_genericos.json");
+					writer.writeAll(patients);
 				}break;
 
 				case 4: 

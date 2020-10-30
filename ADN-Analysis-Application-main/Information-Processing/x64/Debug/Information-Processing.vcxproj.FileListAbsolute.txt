@@ -1,2 +1,4 @@
 C:\Users\alexr\Desktop\ADN-Analysis-Application-main\Information-Processing\x64\Debug\Information-Processing.exe
 C:\Users\alexr\Desktop\ADN-Analysis-Application-main\Information-Processing\x64\Debug\Information-Processing.pdb
+C:\Users\alexr\source\repos\LexiAreAre\DNA-AnalysisProgram\ADN-Analysis-Application-main\Information-Processing\x64\Debug\Information-Processing.exe
+C:\Users\alexr\source\repos\LexiAreAre\DNA-AnalysisProgram\ADN-Analysis-Application-main\Information-Processing\x64\Debug\Information-Processing.pdb

@@ -6,6 +6,7 @@
 #include "CSVReader.h"
 #include "CSVTransformer.h"
 #include "JSONWriter.h"
+#include "DiseasesCheckOut.h"
 #include "string.h"
 #include "stdio.h"
 
